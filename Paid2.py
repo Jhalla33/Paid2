@@ -398,8 +398,8 @@ logo = ("""
 
    \x1b[1;92m         🤞 ALONE TOPPER 🤞
    \x1b[1;92m➣TOOL NAME :       JHALLA
-   \x1b[1;92m➣AUTHOR    :          JHALLA
-   \x1b[1;92m➣WHATSAPP    : +92343xxxxxx
+   \x1b[1;92m➣AUTHOR    :       JHALLA
+   \x1b[1;92m➣WHATSAPP  : +92343xxxxxx
    \x1b[1;92m➣FACEBOOK  : JHALLA BRAND
    \x1b[1;92m➣Group     : LEGEND 9T7
    \x1b[1;92m➣WHATSAPP  : [ LOLX ]
